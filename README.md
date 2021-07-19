@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh nayak</h1>
+<h1 align="left">Hi 👋, I'm Rishabh nayak</h1>
 <h3 align="left">Connect with me:</h3> <img src="https://octodex.github.com/images/jetpacktocat.png" width="400" height="400" align="right">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/rishabh-nayak-095944203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/rishabh-nayak-095944203" height="30" width="40" /></a>
