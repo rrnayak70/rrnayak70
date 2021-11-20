@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="left">Connect with me:</h3> <img src="https://octodex.github.com/images/jetpacktocat.png" width="400" height="400" align="right">
+
 
 <h3 align="center">Web Development Is my passion and a Dream also. That's why I started with Programming Hero</h3>
 
